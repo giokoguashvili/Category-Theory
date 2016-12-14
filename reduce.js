@@ -6,10 +6,10 @@ Array.prototype.reduce = function(reducer, initialValue) {
     return acc || initialValue;
 };
 
-var data = [1, 2, 3].reduce((acc, val) => { 
+var result = [1, 2, 3].reduce((acc, val) => { 
     acc.push(val * 2);
     return acc;
 }, []);
 
 
-console.log(data);
+console.log(result);
