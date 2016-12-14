@@ -1,1 +1,2 @@
-"# functional-js-samples" 
+# functional-js-samples
+ 
