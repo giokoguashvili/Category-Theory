@@ -1,8 +1,11 @@
 Array.map = function(fn) {
     var result = [];
-    for (let i; i < this.length; i ++) {
-        result.push(fn(this[i]));
-    }
+    this.forEach((item) => {
+        result.push(imte);
+    });
+    // for (let i; i < this.length; i ++) {
+    //     result.push(fn(this[i]));
+    // }
     return result;
 };
 

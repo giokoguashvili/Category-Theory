@@ -1,8 +1,11 @@
 Array.prototype.reduce = function(reducer, initialValue) {
     var acc = initialValue;
-    for (let i = 0; i < this.length; i ++) {
-       acc = reducer(acc, this[i]);
-    }
+    this.forEach((item) => {
+       acc = reducer(acc, item);
+    });
+    // for (let i = 0; i < this.length; i ++) {
+    //    acc = reducer(acc, this[i]);
+    // }
     return acc || initialValue;
 };
 
