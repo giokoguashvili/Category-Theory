@@ -1,4 +1,4 @@
-Array.filter = function(fn) {
+Array.prototype.filter = function(fn) {
     var result = [];
     this.forEach((item) => {
         if (fn(item)) result.push(item);

@@ -1,4 +1,4 @@
-Array.map = function(fn) {
+Array.prototype.map = function(fn) {
     var result = [];
     this.forEach((item) => {
         result.push(imte);
