@@ -1,11 +1,8 @@
 Array.prototype.map = function(fn) {
     var result = [];
     this.forEach((item) => {
-        result.push(imte);
+        result.push(fn(item));
     });
-    // for (let i; i < this.length; i ++) {
-    //     result.push(fn(this[i]));
-    // }
     return result;
 };
 
