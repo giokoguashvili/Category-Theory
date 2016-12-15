@@ -19,5 +19,12 @@ describe('Array', function() {
     it('should return array with numbers grather then 2', function() {
       assert.deepEqual([3,4], [1,2,3,4].filter((item) => item > 2));
     });
+
+    it('should return sum of array [1,2,3,4]', function() {
+      assert.equal(10, [1,2,3,4].reduce((acc, item) => {
+        acc += item;
+        return acc;
+      }))
+    });
   });
 });
