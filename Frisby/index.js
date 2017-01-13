@@ -1,3 +1,5 @@
+const Box = require('./box.js');
+
 const nextCharForNumberString = str => {
     const trimmed = str.trim();
     const number = parseInt(trimmed);
@@ -13,5 +15,15 @@ const nextCharForNumberString_2 = str => {
         .map(nn => String.fromCharCode(nn))
 }
 
+
+const nextCharForNumberString_3 = str => {
+    return Box(str)
+        .map(s => s.trim())
+        .map(ts => parseInt(ts))
+        .map(n => n + 1)
+        .fold(nn => String.fromCharCode(nn))
+}
+
 console.log(nextCharForNumberString('  64 '));
 console.log(nextCharForNumberString_2('  66 '));
+console.log(nextCharForNumberString_3('  66 '));
