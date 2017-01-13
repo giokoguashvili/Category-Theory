@@ -1,4 +1,4 @@
-const Box = require('./box.js');
+const Box = require('./box.js').Box;
 
 const moneyToFloat = str => 
     Box(str)
