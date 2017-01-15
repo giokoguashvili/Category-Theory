@@ -1,17 +1,21 @@
 # functional-js-samples
  
 ### Binary Operation
+
 [Binary Operation](https://en.wikipedia.org/wiki/Binary_operation) on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
- ops (○) = +, *, f()
- 
- 
+
+![bynop](https://cloud.githubusercontent.com/assets/8178412/21961746/ac512f7a-db2b-11e6-8b79-d0884758c594.PNG)
+
+
  
 ### Аssoсiаtivе
+
 [Аssoсiаtivе](https://en.wikipedia.org/wiki/Associative_property) is a property of some binary operations.
 
 ![associative](https://cloud.githubusercontent.com/assets/8178412/21961670/6fdf745e-db29-11e6-801c-c684f486ae08.PNG)
 
-### Commutative    
+### Commutative 
+
 [Commutative](https://en.wikipedia.org/wiki/Commutative_property) is when the order of the operands does not change the result.
 
 ![commutative](https://cloud.githubusercontent.com/assets/8178412/21961683/354d625a-db2a-11e6-99cd-f5f5f2603f26.PNG)
@@ -19,6 +23,7 @@
    
    
 ### Semigroup  
+
 [Semigroup](https://en.wikipedia.org/wiki/Semigroup) is an algebraic structure consisting of a set together 
 with an associative binary operation
 
@@ -27,6 +32,7 @@ with an associative binary operation
 
 
 ### Identity element
+
 [Identity element](https://en.wikipedia.org/wiki/Identity_element) or neutral element is a special type of element of a set with respect to a binary operation on that set, which leaves other elements unchanged when combined with them.
 
 ![captu123re](https://cloud.githubusercontent.com/assets/8178412/21961611/994177cc-db27-11e6-84e1-b2f53b277c82.PNG)
@@ -34,6 +40,7 @@ with an associative binary operation
 
 
 ### Monoid
+
 [Monoid](https://en.wikipedia.org/wiki/Monoid) is an algebraic structure with a single associative binary operation and an [Identity element].
 
 ![monoid](https://cloud.githubusercontent.com/assets/8178412/21961642/8f524a74-db28-11e6-9036-961252a3e337.PNG)
