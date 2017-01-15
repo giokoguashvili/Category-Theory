@@ -12,6 +12,8 @@
 [Semigroup] is an algebraic structure 
 consisting of a set together 
 with an [Associative] [Binary Operation]
-    [1,2,3]
-    
+![semigroup](https://cloud.githubusercontent.com/assets/8178412/21961580/dfc3ce80-db26-11e6-80fa-7d32c329385e.PNG)
+
+
+###Group-like structures    
 ![Group-like structures](https://cloud.githubusercontent.com/assets/8178412/21961572/98e9480a-db26-11e6-89d2-f7d03888226f.PNG)
