@@ -1,4 +1,3 @@
-// a + b + c == (a + b) + c == a + (b + c)
 const Sum = x => ({
     x,
     concat: ({x: y}) =>
@@ -15,3 +14,9 @@ const All = x => ({
 
 console.log(Sum(2).concat(Sum(5)));
 console.log(All(true).concat(All(true)));
+
+
+/*
+    Associative
+         a + b + c == (a + b) + c == a + (b + c)
+*/
