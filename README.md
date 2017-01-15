@@ -13,3 +13,5 @@
 consisting of a set together 
 with an [Associative] [Binary Operation]
     [1,2,3]
+    
+![Group-like structures](https://cloud.githubusercontent.com/assets/8178412/21961572/98e9480a-db26-11e6-89d2-f7d03888226f.PNG)
