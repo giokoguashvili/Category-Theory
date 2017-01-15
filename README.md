@@ -12,7 +12,7 @@
 [Semigroup] is an algebraic structure 
 consisting of a set together 
 with an [Associative] [Binary Operation]
-![semigroup](https://cloud.githubusercontent.com/assets/8178412/21961580/dfc3ce80-db26-11e6-80fa-7d32c329385e.PNG)
+![semigroup](https://cloud.githubusercontent.com/assets/8178412/21961636/4e98a0fa-db28-11e6-9f06-b99b2442f3df.PNG)
 
 [Identity element] or neutral element is a special type of element of a set with respect to a binary operation on that set, which leaves other elements unchanged when combined with them.
 
