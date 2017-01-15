@@ -3,7 +3,7 @@
 [Binary Operation] on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
  ops (○) = +, *, f()
  
-[Associative]
+[Assoсiative]
        (a ○ b) ○ c == a ○ (b ○ c)
        
 [Commutative]
