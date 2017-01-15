@@ -18,7 +18,7 @@ with an [Associative] [Binary Operation]
 
 ![captu123re](https://cloud.githubusercontent.com/assets/8178412/21961611/994177cc-db27-11e6-84e1-b2f53b277c82.PNG)
 
-[Monoid] is an algebraic structure with a single associative binary operation and an identity element.
+[Monoid] is an algebraic structure with a single associative binary operation and an [Identity element].
 
 ###Group-like structures    
 ![Group-like structures](https://cloud.githubusercontent.com/assets/8178412/21961572/98e9480a-db26-11e6-89d2-f7d03888226f.PNG)
