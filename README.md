@@ -41,7 +41,7 @@ with an associative binary operation
 
 ### Monoid
 
-[Monoid](https://en.wikipedia.org/wiki/Monoid) is an algebraic structure with a single associative binary operation and an [Identity element].
+[Monoid](https://en.wikipedia.org/wiki/Monoid) is an algebraic structure with a single associative binary operation and an identity element.
 
 ![monoid](https://cloud.githubusercontent.com/assets/8178412/21961642/8f524a74-db28-11e6-9036-961252a3e337.PNG)
 
