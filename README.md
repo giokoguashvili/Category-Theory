@@ -1,10 +1,12 @@
 # functional-js-samples
  
-[Binary Operation] on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
+[Binary Operation](https://en.wikipedia.org/wiki/Binary_operation) on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
  ops (○) = +, *, f()
  
-[Аssoсiаtivе]
-       (a ○ b) ○ c == a ○ (b ○ c)
+[Аssoсiаtivе](https://en.wikipedia.org/wiki/Associative_property) is a property of some binary operations.
+
+![associative](https://cloud.githubusercontent.com/assets/8178412/21961670/6fdf745e-db29-11e6-801c-c684f486ae08.PNG)
+
        
 [Commutative]
        a ○ b = b ○ a
