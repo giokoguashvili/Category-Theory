@@ -5,7 +5,6 @@
 [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 
-
 ### Binary Operation
 
 [Binary Operation](https://en.wikipedia.org/wiki/Binary_operation) on a set is a calculation that combines two elements of the set (called operands) to produce another element of the set.
