@@ -8,7 +8,9 @@
 
 
 ### Docs:
+
 [FantasyLand](https://github.com/fantasyland/fantasy-land)
+
 [Jargon of functional programming](https://habrahabr.ru/post/310172/) 
 
 
