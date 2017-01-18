@@ -14,6 +14,7 @@
 [Jargon of functional programming](https://habrahabr.ru/post/310172/) 
 
 
+### Algebra
 
 ### Binary Operation
 
