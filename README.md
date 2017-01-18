@@ -15,7 +15,7 @@
 
 
 
-# Algebra:
+# Algebra
 
 ### Binary Operation
 
