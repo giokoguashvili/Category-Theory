@@ -11,7 +11,7 @@
 
 [FantasyLand](https://github.com/fantasyland/fantasy-land)
 
-[Jargon of functional programming (RU)](https://habrahabr.ru/post/310172/) 
+[Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 
 
 
