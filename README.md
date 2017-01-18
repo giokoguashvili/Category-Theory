@@ -1,10 +1,17 @@
 # functional-js-samples
 
-### Book
+### Books:
 
 [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
+
+
+
+### Docs:
 [FantasyLand](https://github.com/fantasyland/fantasy-land)
+[Jargon of functional programming](https://habrahabr.ru/post/310172/) 
+
+
 
 ### Binary Operation
 
