@@ -1,7 +1,10 @@
+const { Map, List } = require('immutable-ext');
+
 const Sum = x => ({
     x,
     concat: ({x: y}) =>
-        Sum(x + y)
+        Sum(x + y),
+    inspect: () => `Sum(${x})`
 })
 Sum.empty = () => Sum(0);
 
@@ -71,3 +74,12 @@ const First = either => ({
 });
 
 First.empty = () => First(Left());
+
+const res = List.of(Sum(1), Sum(2), Sum(3))
+    .fold(Sum.empty())
+    //.reduce((acc, x) => acc.concat(x), Sum.empty());
+
+const res2 = List.of(3, 4, 5)
+    .foldMap(Sum, Sum.empty());
+console.log(res);
+console.log(res2);
