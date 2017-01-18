@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kogoia/functional-js-samples#readme",
   "dependencies": {
+    "immutable": "^3.8.1",
+    "immutable-ext": "^1.0.8",
     "mocha": "^3.2.0"
   }
 }
