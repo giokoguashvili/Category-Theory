@@ -13,7 +13,7 @@
 
 [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 
-
+[Static Land Specification](https://github.com/rpominov/static-land/blob/master/docs/spec.md)
 
 # Algebra
 
