@@ -27,6 +27,9 @@
 
 :star: [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
+### Blogs
+
+:star: [Monads in C#](http://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html)
 
 # Algebra
 
