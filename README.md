@@ -15,6 +15,16 @@
 
 [Static Land Specification](https://github.com/rpominov/static-land/blob/master/docs/spec.md)
 
+### Videos:
+
+[Brian Lonsdorf - Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+[A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)
+
+### Cources:
+[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+[Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+
+
 # Algebra
 
 ### Binary Operation
