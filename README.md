@@ -30,6 +30,7 @@
 ### Blogs
 
 :star: [Monads in C#](http://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html)
+:star: [The Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads)
 
 # Algebra
 
