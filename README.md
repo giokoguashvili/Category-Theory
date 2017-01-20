@@ -23,6 +23,7 @@
 :white_check_mark: [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 
 ### Courses:
+
 :star: [Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 :star: [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
@@ -30,6 +31,7 @@
 ### Blogs
 
 :star: [Monads in C#](http://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html)
+
 :star: [The Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads)
 
 # Algebra
