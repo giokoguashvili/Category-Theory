@@ -14,8 +14,6 @@ const fnA = (number) =>
 const fnB = (numbers) =>
     numbers.map(n => fnA(n)).concatAll();
 
-
-
 output(
     // fnA :: a -> [b]
     fnA(10), // ['1', '0']
@@ -38,6 +36,7 @@ Array.prototype.bind = function(fnA) {
 }
 
 output(
-    [10,11,12,13].bind(fnA)
+    [10,11,12,13].bind(fnA),
+    [10,11,12,13,14].bind(number => number.toString().split(''))
 );
 
