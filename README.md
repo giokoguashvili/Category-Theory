@@ -1,10 +1,40 @@
 # functional-js-samples
 
-### Book
+### Books:
 
-[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+:star: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
-[FantasyLand](https://github.com/fantasyland/fantasy-land)
+
+### Docs:
+
+:star: [FantasyLand](https://github.com/fantasyland/fantasy-land)
+
+:star: [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
+:star: [Static Land Specification](https://github.com/rpominov/static-land/blob/master/docs/spec.md)
+
+
+### Videos:
+
+:white_check_mark: [Brian Lonsdorf - Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+
+:white_check_mark: [A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)
+
+:white_check_mark: [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+
+### Courses:
+
+:star: [Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+
+:star: [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+
+### Blogs
+
+:star: [Monads in C#](http://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html)
+
+:star: [The Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads)
+
+# Algebra
 
 ### Binary Operation
 
