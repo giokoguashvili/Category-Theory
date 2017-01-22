@@ -12,7 +12,23 @@ Array.prototype.map = function(fn) {
     return this.reduce((acc, val) => {
         acc.push(fn(val));
         return acc;
-    }, [0]);
+    }, []);
+};
+
+Array.prototype.filter = function(fn) {
+    var result = [];
+    this.forEach((item) => {
+        if (fn(item)) result.push(item);
+    });
+    return result;
+};
+
+
+Array.prototype.filter = function(fn) {
+    return this.reduce((acc, val) => {
+        if (fn(val)) acc.push(val);
+        return acc;
+    }, []);
 };
 
 
@@ -21,5 +37,6 @@ output(
         acc.push(val * 2);
         return acc;
     }, []),
-    [1,2,3].map(x => x * 3)
+    [1,2,3].map(x => x * 3),
+    [1,2,3,4].filter(x => x % 2 === 0)
 );
