@@ -34,6 +34,8 @@
 
 :star: [The Marvels of Monads](https://blogs.msdn.microsoft.com/wesdyer/2008/01/10/the-marvels-of-monads)
 
+:white_check_mark: [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221#.y7s8mwhu3)
+
 # Algebra
 
 ### Binary Operation
