@@ -1,5 +1,9 @@
 # functional-js-samples
 
+### Wiki
+
+[A little bit of theory](https://github.com/kogoia/functional-js-samples/wiki)
+
 ### Books:
 
 :star: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
